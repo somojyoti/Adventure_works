@@ -1,21 +1,21 @@
 [
     {
-        "p_rel_url" : "somojyoti/Adventure_Works/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+        "p_rel_url" : "somojyoti/Adventure_Works/main/Data/AdventureWorks_Product_Categories.csv",
         "p_sink_folder" : "AdventureWorks_Product_Categories",
         "p_sink_file" : "AdventureWorks_Product_Categories.csv"
     },
     {
-        "p_rel_url" : "somojyoti/Adventure_Works/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+        "p_rel_url" : "somojyoti/Adventure_Works/main/Data/AdventureWorks_Calendar.csv",
         "p_sink_folder" : "AdventureWorks_Calendar",
         "p_sink_file" : "AdventureWorks_Calendar.csv"
     },
     {
-        "p_rel_url" : "somojyoti/Adventure_Works/refs/heads/main/Data/AdventureWorks_Customers.csv",
+        "p_rel_url" : "somojyoti/Adventure_Works/main/Data/AdventureWorks_Customers.csv",
         "p_sink_folder" : "AdventureWorks_Customers",
         "p_sink_file" : "AdventureWorks_Customers.csv"
     },
     {
-        "p_rel_url" : "somojyoti/Adventure_Works/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "p_rel_url" : "somojyoti/Adventure_Works/main/Data/AdventureWorks_Product_Subcategories.csv",
         "p_sink_folder" : "Product_Subcategories",
         "p_sink_file" : "AdventureWorks_Product_Subcategories.csv"
     },
