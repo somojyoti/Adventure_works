@@ -1,11 +1,11 @@
 [
     {
-        "p_rel_url" : "somojyoti/Adventure_Works/main/Data/AdventureWorks_Product_Categories.csv",
+        "p_rel_url" : "somojyoti/Adventure_works/main/Data/AdventureWorks_Product_Categories.csv",
         "p_sink_folder" : "AdventureWorks_Product_Categories",
         "p_sink_file" : "AdventureWorks_Product_Categories.csv"
     },
     {
-        "p_rel_url" : "somojyoti/Adventure_Works/main/Data/AdventureWorks_Calendar.csv",
+        "p_rel_url" : "somojyoti/Adventure_works/main/Data/AdventureWorks_Calendar.csv",
         "p_sink_folder" : "AdventureWorks_Calendar",
         "p_sink_file" : "AdventureWorks_Calendar.csv"
     },
